@@ -19,4 +19,7 @@ Source: https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 <h3>Methodology</h3>
 Download the Iris Data Set
-checker cheke 12 12 12
+
+
+<h3>References</h3>
+https://www.kaggle.com/adityabhat24/iris-data-analysis-and-machine-learning-python
