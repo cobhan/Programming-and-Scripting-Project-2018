@@ -2,7 +2,7 @@
 
 Cóbhan Phillipson
 
-Project Insturctions:
+<h2>Project Insturctions:</h2>
 1. Research background information about the data set and write a summary about
 it.
 2. Keep a list of references you used in completing the project.
