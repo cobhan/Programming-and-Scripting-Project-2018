@@ -19,4 +19,4 @@ Source: https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 <h3>Methodology</h3>
 Download the Iris Data Set
-checker cheke 12 12
+checker cheke 12 12 12
